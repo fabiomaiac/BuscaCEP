@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rsFoYrwMxK7tt5ddfVk9bbZp2ytJ2CtsK4Em4VZpniA=",
+  "Source": "BuscaCEP.Api",
+  "BasePath": "_content/BuscaCEP.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

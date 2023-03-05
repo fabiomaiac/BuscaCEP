@@ -1,0 +1,12 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\bin\Debug\net7.0\BuscaCEP.Domain.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\bin\Debug\net7.0\BuscaCEP.Domain.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\bin\Debug\net7.0\BuscaCEP.Domain.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\BuscaCEP.Domain.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\BuscaCEP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\BuscaCEP.Domain.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\BuscaCEP.Domain.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\BuscaCEP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\BuscaCEP.Domain.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\refint\BuscaCEP.Domain.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\BuscaCEP.Domain.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\BuscaCEP\BuscaCEP.Domain\obj\Debug\net7.0\ref\BuscaCEP.Domain.dll
